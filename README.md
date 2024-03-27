@@ -5,7 +5,7 @@ I utilized Python to skillfully wrangle and analyze diverse datasets from Instac
 The Instacart Basket Analysis project utilizes Python for data wrangling and analysis of several datasets from Instacart. The project culminates in a comprehensive report communicating the analysis process, results, and recommendations addressing key business questions from Instacart.
 
 ## Objective
-![Instacart Logo]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adweek.com%2Fcommerce%2Finstacart-buries-carrot-logo-refresh%2F&psig=AOvVaw3CkQuN7SGRteJn9X-dRObE&ust=1711592745198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCMjKq_6xk4UDFQAAAAAdAAAAABCyBQ)
+![Instacart Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adweek.com%2Fcommerce%2Finstacart-buries-carrot-logo-refresh%2F&psig=AOvVaw3CkQuN7SGRteJn9X-dRObE&ust=1711592745198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCMjKq_6xk4UDFQAAAAAdAAAAABCyBQ)
 Instacart, an online grocery store operating through an app, aims to uncover valuable insights into their sales patterns. Key objectives include:
 
 - Identifying the busiest days and hours for scheduling ads.
